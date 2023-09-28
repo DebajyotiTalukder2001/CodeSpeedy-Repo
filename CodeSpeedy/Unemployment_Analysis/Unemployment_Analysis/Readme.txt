@@ -1,6 +1,6 @@
 Unemployment Analysis using Python:
 
-I have created an Application using Python and its Libraries to implement data science and machine learning concepts and analyse the unemployment rate of different states in the country of India. I have used Python Pandas, Numpy, Matplotlib, and Seaborn Libraries to implement this project.
+I have used Python and its Libraries to implement data science and machine learning concepts and analyse the unemployment rate of different states in the country of India. I have used Python Pandas, Numpy, Matplotlib, and Seaborn Libraries to implement this project.
 
 Technologies:
 
