@@ -20,9 +20,4 @@ How to use:
 
 Just open the Google Collaboratory using your Google account and import the jupyter source file (UNEMPLOYMENT_ANALYSIS_WITH_PYTHON.ipnyb) and the dataset (Unemployment_Rate_upto_11_2020.csv) to Google Collaboratory virtual storage (Google Collaboratory File Upload Method).
 
-Then run the project using the Google Colab Python 3 runtime engine. I have also attached here the html file and corresponding pdf file to see the outcome of the project.
-
-
-
-
-Output: Jupyter Source file (.ipnyb), HTML file, and pdf file attached already.
+Then run the project using the Google Colab Python 3 runtime engine.
