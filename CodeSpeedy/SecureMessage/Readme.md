@@ -1,26 +1,26 @@
-Secure Message using Python & ML:
+<h1>Secure Message using Python & ML:</h1>
 
 This is a Message Security Tool built using Python and ML. This Tool can ensure a secure environment where messages are sent between users and uses a combination of encryption and authentication.
 The messages are encrypted using a symmetric encryption algorithm, and the identity of the recipient is verified using username, password and an a two-factor authentication system.
 
-Screenshots:
+<h2>Screenshots:</h2>
 
-![Screenshot (977)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/2f31ee53-32e0-4e67-9c5d-38149e423cca)
-
-
-
-![Screenshot (978)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/6d4f5a45-362d-49ae-b2e1-ecab6559107f)
+![Screenshot (977)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(927)-1687761819-1763.png)
 
 
 
-![Screenshot (979)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/54fe48b5-83fd-446f-b9b6-baa501fdebf0)
-
-
-![Screenshot (982)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/2a066aaa-3bbe-4177-840d-a938cb4aa169)
+![Screenshot (978)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(920)-1687761640-1763.png)
 
 
 
-![Screenshot (980)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/555fb147-13ce-44d9-abca-ba5e69d80859)
+![Screenshot (979)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(922)-1687761684-1763.png)
 
 
-![Screenshot (981)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/cf50871d-960e-4639-8c7c-d9f952b625ac)
+![Screenshot (982)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(926)-1687761616-1763.png)
+
+
+
+![Screenshot (980)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(923)-1687761562-1763.png)
+
+
+![Screenshot (981)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(924)-1687761745-1763.png)
