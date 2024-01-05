@@ -6,15 +6,10 @@ python libraries OpenCV, Dlib and face_recognition which can efficiently give th
 
 <h2>Screenshots:</h2>
 
-
-![Screenshot (971)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(885)-1687159939-1763.png)
-
-
-![Screenshot (972)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(886)-1687159965-1763.png)
-
-
 ![Screenshot (973)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(887)-1687262051-1763.png)
 
+
 ![Screenshot (974)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(888)-1687262071-1763.png)
+
 
 ![Screenshot (975)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(889)-1687262093-1763.png)
