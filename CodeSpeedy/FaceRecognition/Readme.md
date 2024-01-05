@@ -1,15 +1,20 @@
-Face Recognition Tool using Python:
+<h1>Face Recognition Tool using Python:</h1>
 
 This is a Face Recognition Tool built using Python. It can compare two photos and check if both images have the same face. I have used
 python libraries OpenCV, Dlib and face_recognition which can efficiently give the output whether both the images have same face.
 
-Screenshots:
+
+<h2>Screenshots:</h2>
 
 
-![Screenshot (971)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/72a2e506-41de-43e8-a657-81a5b84016e9)
-
-![Screenshot (972)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/da141d56-79c7-4690-99c9-e6053323bfce)
+![Screenshot (971)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(885)-1687159939-1763.png)
 
 
+![Screenshot (972)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(886)-1687159965-1763.png)
 
-![Screenshot (973)](https://github.com/DebajyotiTalukder2001/Mcet-Repo/assets/136104351/9644173e-0c59-46f9-8ca4-6a6965d1c02d)
+
+![Screenshot (973)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(887)-1687262051-1763.png)
+
+![Screenshot (974)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(888)-1687262071-1763.png)
+
+![Screenshot (975)](https://coderspacket.com/uploads/user_files/2023-06/Screenshot_(889)-1687262093-1763.png)
