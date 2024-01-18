@@ -3,6 +3,10 @@ This repository includes all the projects I completed during my internship at Co
 
 https://www.codespeedy.com/
 
-As a python Developer Intern, I have Contributed source codes/projects on Coders Packet, an online platform of source code directory for projects.
+* Performed data analysis and machine learning tasks using Python and its libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
-Link: [Click Here](https://coderspacket.com/contributor/Debajyoti2001)
+* [Click Here](https://github.com/DebajyotiTalukder2001/ML-Repo)
+
+* As a python Developer Intern, I have Contributed source codes/projects on Coders Packet, an online platform of source code directory for projects.
+
+* [Click Here](https://coderspacket.com/contributor/Debajyoti2001)
