@@ -7,6 +7,6 @@ https://www.codespeedy.com/
 
 * [Click Here](https://github.com/DebajyotiTalukder2001/ML-Repo)
 
-* As a python Developer Intern, I have Contributed source codes/projects on Coders Packet, an online platform of source code directory for projects.
+* As a python Developer Intern, I have Contributed source codes/projects on [Coders Packet](https://coderspacket.com/contributor/Debajyoti2001), an online platform of source code directory for projects.
 
-* [Click Here](https://coderspacket.com/contributor/Debajyoti2001)
+* [Click Here](https://github.com/DebajyotiTalukder2001/CodeSpeedy-Projects)
