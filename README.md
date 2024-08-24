@@ -12,4 +12,4 @@ https://www.codespeedy.com/
 * As a Python Developer Intern, I Contributed source codes/projects utilizing Python and its libraries on [Coders Packet](https://coderspacket.com/contributor/Debajyoti2001),
   an online platform of source code directories for projects.
 
-* [@CodeSpeedy-Projects](https://github.com/DebajyotiTalukder2001/CodeSpeedy-Projects)
+* [@CodeSpeedy-Projects](https://github.com/DebajyotiTalukder2001/CodeSpeedy-Repo)
